@@ -1,6 +1,8 @@
 # Miro
 
-I have built a Miro clone using React, Tailwind CSS, Framer Motion, and Lucide Icons. This collaborative whiteboard application allows users to create, move, and manipulate elements like sticky notes, text, and shapes in a dynamic workspace.
+ # Tech Stack : React, Tailwind CSS, Framer Motion, and Lucide Icons. 
+ 
+This collaborative whiteboard application allows users to create, move, and manipulate elements like sticky notes, text, and shapes in a dynamic workspace.
 
 Using Framer Motion, the app delivers smooth animations and drag-and-drop interactions, enhancing the user experience. Tailwind CSS ensures a clean, responsive, and modern UI, making the board visually appealing and easy to use. Lucide Icons add intuitive visual elements for better navigation and usability.
 
