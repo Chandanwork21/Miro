@@ -1,4 +1,4 @@
-# Miro
+# Miro - Dashboard
 
  # Tech Stack : React, Tailwind CSS, Framer Motion, and Lucide Icons. 
  
