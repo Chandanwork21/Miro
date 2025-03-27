@@ -11,3 +11,6 @@ The app supports real-time board interactions, allowing users to position elemen
 This project demonstrates React’s component-based architecture for building scalable applications. The use of state management and event handling ensures a smooth and interactive user experience. Future improvements may include real-time collaboration using WebSockets or Firebase, user authentication, and board-saving features.
 
 This Miro clone is an excellent tool for teams and individuals who need an online workspace for creative ideation, planning, and collaboration. It showcases my ability to build interactive and visually engaging applications using modern web technologies.
+
+# Note 
+I will be adding more animations , transitions and also update the links as well as more functionality.
